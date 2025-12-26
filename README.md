@@ -34,7 +34,7 @@
 
 <div align="center">
   <h2></h2>
-    <a href= https://github.com/emregl8/42-evaluation><img src="https://img.shields.io/badge/circle-5/6-magenta?style=for-the-badge"/></a>
+    <a href= https://github.com/emregl8/42-evaluation><img src="https://img.shields.io/badge/rank-6/6-magenta?style=for-the-badge"/></a>
     <a href= https://github.com/emregl8/42-evaluation><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
     <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
    
