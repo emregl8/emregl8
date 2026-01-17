@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emre!</h1>
-<h3 align="center">I am passionate about cybersecurity and programming.</h3>
-
-- 🔭 I’m currently working on **42 transcendence project**
+<h3 align="center">I am continuously improving myself in the fields of cybersecurity and software development, with a strong focus on secure coding and system security.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,9 +8,6 @@
 <a href="https://tryhackme.com/p/mr246" target="blank"><img align="center" src="https://i.ibb.co/C5CQVwV/0-rzo5-Tqpt-Jq-MYUkwg.jpg" alt="emregl" height="40" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/1306260" target="blank"><img align="center" src="https://i.ibb.co/y019C59/31746234.png" alt="emregl" height="40" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## My 42 Network Projects
 | Rank | Project |
@@ -39,5 +34,3 @@
     <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
    
 </div>
-
-
