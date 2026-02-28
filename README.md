@@ -25,7 +25,7 @@
 |  4/5   | [CPP Modules](https://github.com/emregl8/42_ring4_cpp_modules) - C++ |
 |  5   | [Inception](https://github.com/emregl8/42_ring5_inception) - Containers |
 |  5   | [RaRe Server/webserv](https://github.com/emregl8/42_ring5_webserv) - HTTP server |
-|  6   | [Transcendence(private due to security reasons](https://42-lms.com) - Web Application |
+|  6   | [Transcendence(private due to security reasons)(https://42-lms.com) - Web Application |
 
 <div align="center">
   <h2></h2>
