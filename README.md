@@ -5,8 +5,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emregl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emregl" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/mr246" target="blank"><img align="center" src="https://i.ibb.co/C5CQVwV/0-rzo5-Tqpt-Jq-MYUkwg.jpg" alt="emregl" height="40" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/1306260" target="blank"><img align="center" src="https://i.ibb.co/y019C59/31746234.png" alt="emregl" height="40" width="40" /></a>
 </p>
 
 ## My 42 Network Projects
@@ -26,11 +24,3 @@
 |  5   | [Inception](https://github.com/emregl8/42_ring5_inception) - Containers |
 |  5   | [RaRe Server/webserv](https://github.com/emregl8/42_ring5_webserv) - HTTP server |
 |  6   | [Transcendence(WIP)](https://github.com/emregl8/42_ring6_transcendence) - Web Application |
-
-<div align="center">
-  <h2></h2>
-    <a href= https://github.com/emregl8/42-evaluation><img src="https://img.shields.io/badge/rank-6/6-magenta?style=for-the-badge"/></a>
-    <a href= https://github.com/emregl8/42-evaluation><img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
-    <a href="https://42istanbul.com.tr/"><img src="https://img.shields.io/badge/42-ISTANBUL-white?style=for-the-badge"/></a>
-   
-</div>
