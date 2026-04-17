@@ -2,12 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emre!</h1>
 <h3 align="center">I am continuously improving myself in the fields of cybersecurity and software development, with a strong focus on secure coding and system security.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emregl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emregl" height="30" width="40" /></a>
-</p>
-
-## My 42 Network Projects
+## My 42 Network Common Core Projects
 | Rank | Project |
 |:----:|---------|
 |  0   | [Libft](https://github.com/emregl8/42_ring0_libft) - Custom C library |
@@ -24,3 +19,9 @@
 |  5   | [Inception](https://github.com/emregl8/42_ring5_inception) - Containers |
 |  5   | [RaRe Server/webserv](https://github.com/emregl8/42_ring5_webserv) - HTTP server |
 | 6    | [Transcendence (private for security reasons)](https://43lms.com) - Web Application |
+
+
+## My 42 Network Advanced Projects
+| Project |
+|---------|
+[Cybersecurity Piscine(WIP)](https://github.com/emregl8/42_avdanced_cybersecurity_piscine) - Cybersecurity challenges |
